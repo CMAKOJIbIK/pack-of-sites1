@@ -8,6 +8,21 @@
     <title>Document</title>
 </head>
 <body>
-<h1>Урааааа</h1>
+<div class="block_first">
+    <div class="title">
+        <div class="name">
+            <h1>Заголовок</h1>
+            <h2>Підзаголовок</h2>
+        </div>
+    </div>
+    <div class="content">
+        <div class="right_block">
+            <p>Lorem ipsum dolor sit amet, <em>consectetur</em> adipisicing elit.</p>
+        </div>
+        <div class="left_block">
+            <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae, temporibus.</h3>
+        </div>
+    </div>
+</div>
 </body>
 </html>
